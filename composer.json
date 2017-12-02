@@ -1,0 +1,14 @@
+{
+    "name": "cal1314/demo1",
+    "description": "test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cal1314",
+            "email": "969327663@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
